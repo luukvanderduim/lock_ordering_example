@@ -12,7 +12,7 @@ A great talk on Google's Netstack3, Rust and upholding invariants using the type
 ## AI-generated slop?
 
 Certainly! ;)
-The LLM offered to generate me an example which I decided to store for later reference.
+An LLM offered to generated an example which is now stored for later reference.
 
 ## Reference
 
